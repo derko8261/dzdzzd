@@ -558,28 +558,13 @@ The 2 items above are not owned by me, They go to there respected owners
 		height: 30px
 	}
 	#app-mount .typeWindows-1za-n7:after {
-		content: "Dracula";
+		content: "I'm Dracula or i'm Kenzu but i don't know";
 		color: rgba(236, 4, 4, 1);
 		font-weight: 500;
 
 		position: absolute;
 		top: 8px;
-		left: 43.2%;
-	}
-	#app-mount .typeWindows-1za-n4,
-	#app-mount .notice-2FJB5 {
-		background-color: var(--secondary3-colour); 
-		border-bottom: 2px solid var(--primary3-colour); 
-		height: 30px
-	}
-	#app-mount .typeWindows-1za-n4:after {
-		content: "Kenzu.";
-		color: rgba(236, 4, 4, 1);
-		font-weight: 500;
-
-		position: absolute;
-		top: 8px;
-		left: 40.2%;
+		left: 40%;
 	}
 	#app-mount .wordmark-2iDDfm {top: 3.3px;}
 	#app-mount .winButton-iRh8-Z {top: 1px;}
