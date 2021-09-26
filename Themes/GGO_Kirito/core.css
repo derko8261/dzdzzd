@@ -558,13 +558,13 @@ The 2 items above are not owned by me, They go to there respected owners
 		height: 30px
 	}
 	#app-mount .typeWindows-1za-n7:after {
-		content: "Je suis Dracula ou je suis Kenzu mais je ne sais pas";
+		content: "Dracula & Draculette";
 		color: rgba(236, 4, 4, 1);
 		font-weight: 500;
 
 		position: absolute;
 		top: 8px;
-		left: 36%;
+		left: 50%;
 	}
 	#app-mount .wordmark-2iDDfm {top: 3.3px;}
 	#app-mount .winButton-iRh8-Z {top: 1px;}
