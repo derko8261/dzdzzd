@@ -406,7 +406,7 @@ The 2 items above are not owned by me, They go to there respected owners
 		#app-mount .ace_active-line {background-color: var(--primary3-colour)}
 		#app-mount .ace_gutter-active-line {background-color: var(--primary3-colour)}
 
-		#app-mount #bd-customcss-attach-controls {padding-left: 9px}
+		#app-mount #bd-customcss-attach-controls {padding-left: 20px}
 
 		#app-mount #bd-customcss-detach-controls-button button {transition: 0.1s background-color ease-in-out; background-color: var(--secondary1-colour);}
 		#app-mount #bd-customcss-detach-controls-button button:hover {background-color: var(--primary3-colour)}
